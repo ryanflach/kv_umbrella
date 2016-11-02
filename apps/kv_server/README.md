@@ -1,5 +1,7 @@
 # KVServer
 
+Server application built in part 4 of the Elixir tutorial available [here](http://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-apps.html).
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
